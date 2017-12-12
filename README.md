@@ -11,7 +11,6 @@ So I was wondering what type of developer do I want to be? Which skills should I
 
 * C - I just really like C. I honestly don't really feel attracted to object oriented languges after I started working with C. There is minimal magic going on behind the scenes. It is just sort of beautiful and does not seem bloated.
 * Python - Seems interesting. I have written a few small Python programs, but I do not feel like I am knowledgeable
-* C# - Well .NET is a powerfull tool... I defintely like it better than Java
 * Bash - Honestly I just want to learn more about shell scripts
 * GO - I know nothing, but it seems interesting
 * Rust - Heard well of it. Probably something I should look into when I am more experienced
