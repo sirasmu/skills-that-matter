@@ -21,3 +21,9 @@ Ok, so maybe it would be worth it for me to look into something like Spacemacs. 
 So far I have used Vim for Python and Bash. As such I think it might be worth it to learn Spacemacs. Today I saw a quite interesting video on the usage of git together with Spacemacs, which seemed very appealing to me. One of the reasons I wanted to learn Vim was so that I would not have to leave the terminal, which makes it more confortable to update git repositories right away after editing a file.
 
 These are my muddied thoughts from today. I think I kind of care about the wrong things though, but it was great to try to sought out some my thoughts. For the next while I will probably mostly work with C# and Javascript, though. At least that is what I exspect that will be required of me. I don't think I like dynamic types, but maybe I will like Javascript once I have become more experienced. I just found the language to be kind of messy. That is maybe because it was one of the first languages I worked with and thus it troublesome that it was seemingly less structured.
+
+## Log 2017-12-16
+
+![great engineer][great]
+
+[great]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
