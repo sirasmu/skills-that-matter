@@ -26,4 +26,4 @@ These are my muddied thoughts from today. I think I kind of care about the wrong
 
 ![great engineer][great]
 
-[great]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[great]: https://github.com/sirasmu/skills-that-matter/blob/master/great.PNG?raw=true
