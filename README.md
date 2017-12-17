@@ -1,4 +1,4 @@
-# skills-that-matter
+# Logbook
 Self improvement - Reflection and findings
 
 Hi, I am not entirely sure what I want to do with this repo yet. Maybe throw in some cool diagrams, articles, my thoughts on my findings, cool code snippets. As I said I am not sure. However, I do think it is important that I write and document more, so the knowledge from today wont be lost by tomorrow.
@@ -22,7 +22,21 @@ So far I have used Vim for Python and Bash. As such I think it might be worth it
 
 These are my muddied thoughts from today. I think I kind of care about the wrong things though, but it was great to try to sought out some my thoughts. For the next while I will probably mostly work with C# and Javascript, though. At least that is what I exspect that will be required of me. I don't think I like dynamic types, but maybe I will like Javascript once I have become more experienced. I just found the language to be kind of messy. That is maybe because it was one of the first languages I worked with and thus it troublesome that it was seemingly less structured.
 
-## Log 2017-12-16
+## Log 2017-12-17
+
+Lately, I have been reading about the Free Software Foundation. I read a bit about their coding standards and such. Then I started to look up cool Free Software. Findings:
+
+- https://meet.jit.si
+  * What: Web video conference, chat, screen sharing
+  * Pros: You don't need to login; Easy screen sharing; Has shared documents
+  * Cons: Seems imcomplete; I think the chat should be a more emphasized element; Doesn't seem like you can upload files
+
+- https://puri.sm/shop/librem-5/
+  * What: Phone with a GNU+Linux Operating System
+  
+ - Other cool stuff.....
+ 
+ I think it is important as an engineer you consider the ethicality of what you build, so I find this really interesting.
 
 ![great engineer][great]
 
