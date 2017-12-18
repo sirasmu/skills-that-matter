@@ -2,6 +2,8 @@
 
 [great]: https://github.com/sirasmu/skills-that-matter/blob/master/great.PNG?raw=true
 
+Source: https://faculty.washington.edu/ajko/papers/Li2015GreatEngineers.pdf
+
 # Logbook
 Self improvement - Reflection and findings
 
