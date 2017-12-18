@@ -38,6 +38,13 @@ Lately, I have been reading about the Free Software Foundation. I read a bit abo
  
  I think it is important as an engineer you consider the ethicality of what you build, so I find this really interesting.
 
+## Log 2017-12-18
+
+Talking about ethicality FSF / FOSS... Check this out
+
+- https://librecmc.org/github.html
+- https://gogs.io/
+
 ![great engineer][great]
 
 [great]: https://github.com/sirasmu/skills-that-matter/blob/master/great.PNG?raw=true
