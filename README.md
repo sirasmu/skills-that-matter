@@ -1,3 +1,7 @@
+![great engineer][great]
+
+[great]: https://github.com/sirasmu/skills-that-matter/blob/master/great.PNG?raw=true
+
 # Logbook
 Self improvement - Reflection and findings
 
@@ -45,6 +49,3 @@ Talking about ethicality FSF / FOSS... Check this out
 - https://librecmc.org/github.html
 - https://gogs.io/
 
-![great engineer][great]
-
-[great]: https://github.com/sirasmu/skills-that-matter/blob/master/great.PNG?raw=true
