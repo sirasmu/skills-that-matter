@@ -67,3 +67,7 @@ just for extrinsic rewards such as money*. Well that is true for me. An importan
 I think this is rather important as passion can vary. Not just about a subject/field, but also for the task at hand and ones workplace. I think it should be considered that having dispassionate employees is harmful. It may be they are truly passionate about the field, but just have no motivation regarding the task at hand. Something like that ought to be avoided as it would be in everyones interest to have happy and motivated employees. What would be important here is to figure out in which niche we each thrive.
 
 Another quality mentioned in *What Makes A Great Software Engineer* is *open-minded*. To be the desciption of this sounds more like flexibility, foresight, being prepared to update your mental models and understandings according to keep it concurrent with the present world and the latest data. Also being willing to listen to others.
+
+### Rust
+
+I have started looking into Rust. It has my interest. I think I might be more interested in Rust that Python and Go. So far I really like the syntax of what I have seen and the description of the language sounded awesome!
