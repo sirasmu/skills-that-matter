@@ -81,4 +81,4 @@ Today I found yUML. Interesting UML tool.
 [yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
 
 ![Alt text][x]
-[x]: https://g.gravizo.com/svg?digraphG{main -> parse parse -> execute })
+[x]: https://g.gravizo.com/svg?digraphG{main->parse parse->execute })
