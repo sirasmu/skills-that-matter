@@ -71,3 +71,11 @@ Another quality mentioned in *What Makes A Great Software Engineer* is *open-min
 ### Rust
 
 I have started looking into Rust. It has my interest. I think I might be more interested in Rust that Python and Go. So far I really like the syntax of what I have seen and the description of the language sounded awesome! I compilled and ran a small program. Time to try out some more :) 
+
+## Log 2018-01-06
+
+Today I found yUML. Interesting UML tool.
+
+![UML test][yUML-test]
+
+[yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
