@@ -80,7 +80,8 @@ Today I found yUML. Interesting UML tool.
 
 [yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
 
-![Alt text](https://g.gravizo.com/svg?
+![Alt text][x]
+[x]: https://g.gravizo.com/svg?
   digraph G {
     aize ="4,4";
     main [shape=box];
