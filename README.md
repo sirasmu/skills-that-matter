@@ -80,6 +80,7 @@ Today I found yUML. Interesting UML tool.
 
 [yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
 
+<div id="foo">
 <img src='https://g.gravizo.com/svg?
  digraph G 
 {
@@ -87,3 +88,4 @@ Today I found yUML. Interesting UML tool.
    main -> init -> execute
 }
 '>
+</div>
