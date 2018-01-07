@@ -79,5 +79,3 @@ Today I found yUML. Interesting UML tool.
 ![UML test][yUML-test]
 
 [yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
-
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
