@@ -82,10 +82,8 @@ Today I found yUML. Interesting UML tool.
 
 <div id="foo">
 <img src='https://g.gravizo.com/svg?
- digraph G 
-{
+digraph G {
    main -> parse -> execute
-   main -> init -> execute
-}
+   main -> init -> execute}
 '>
 </div>
