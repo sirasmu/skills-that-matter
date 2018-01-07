@@ -79,3 +79,11 @@ Today I found yUML. Interesting UML tool.
 ![UML test][yUML-test]
 
 [yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
+
+<img src='https://g.gravizo.com/svg?
+ digraph G 
+{
+   main -> parse -> execute
+   main -> init -> execute
+}
+'>
