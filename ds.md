@@ -4,6 +4,22 @@
 
 https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
 
+http://www.cs.cmu.edu/~srini/15-440/syllabus.html
+
+https://www.cs.princeton.edu/courses/archive/fall16/cos418/syllabus.html
+
+https://www.tutorialspoint.com/software_architecture_design/distributed_architecture.htm
+
+https://www.uio.no/studier/emner/matnat/ifi/INF5040/h07/undervisningsmateriale/INF5040_WK35_IntroDS.pdf
+
+https://www.cs.helsinki.fi/u/jakangas/Teaching/DistSys/DistSys-08f-1.pdf
+
+https://grid.cs.gsu.edu/~cscskp/DistSystems/chap01-prasad.pdf
+
+http://www.csc.villanova.edu/~schragge/CSC8530/Intro.html
+
+https://en.wikipedia.org/wiki/Message_passing
+
 ## Project (up to 7.5 min)
 
 ## Questions
@@ -17,8 +33,21 @@ https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
 
 ### 2. Three tier architecture
 #### Explain the three tier architecture. Give examples.
+- Architecture
+ * Presentation logic
+ * Application logic
+ * Data logic
 - Benefits
-- Challenges
+ * Scalability
+ * Performance
+ * Availability
+- Limitations
+ * All the content is within the applications layer and has to be pushed to the presentation tier???
+ * 
+
+2.3.2
+Sources:
+https://webhelp.episerver.com/Ektron/documentation/documentation/wwwroot/cms400/v85/webhelp/Developer85/Architecture/ThreeTier_Intro.htm
 
 ### 3. Remote invocation (chapter 5)
 #### Describe various types of remote invocation. Discuss some of the issues with remote invocation including, but not limited to, parameter passing methods.
