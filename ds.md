@@ -33,14 +33,17 @@ https://en.wikipedia.org/wiki/Message_passing
 
 ### 2. Three tier architecture
 #### Explain the three tier architecture. Give examples.
+
 - Architecture
  * Presentation logic
  * Application logic
  * Data logic
+
 - Benefits
  * Scalability
  * Performance
  * Availability
+
 - Limitations
  * All the content is within the applications layer and has to be pushed to the presentation tier???
  * 
