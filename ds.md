@@ -1,4 +1,9 @@
 # SDJ3
+
+## Extra learning resources
+
+https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N
+
 ## Project (up to 7.5 min)
 
 ## Questions
