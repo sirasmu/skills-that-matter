@@ -79,3 +79,8 @@ Today I found yUML. Interesting UML tool.
 ![UML test][yUML-test]
 
 [yUML-test]: http://yuml.me/diagram/class/[TestX]<>1-*>[TestY]
+
+## Log 2018-04-17
+
+Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCity, Jenkins, Octopus Deploy + Tentacles and Resin.io. Current goal is to figure out how to keep values secret, but still have the correct ones upon deployment. I have to look into ENV variables.
+
