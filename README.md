@@ -82,5 +82,5 @@ Today I found yUML. Interesting UML tool.
 
 ## Log 2018-04-17
 
-Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCity, Jenkins, Octopus Deploy + Tentacles and Resin.io. Current goal is to figure out how to keep values secret, but still have the correct ones upon deployment. I have to look into ENV variables.
+Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCity, Jenkins, Octopus Deploy + Tentacles and Resin.io. Current goal is to figure out how to keep values secret, but still have the correct ones upon deployment. I have to look into ENV variables. Currently I am working on a Python3 project with a Discord bot. I use Travis CI for it and it is the plan to try out Resin.io. The project is of now in a private git repository and I want to figure out how to use maybe ENV variables to see how I can how it public, but sensitive data hidden. Then I want to make a similar bot, but this time in Rust and with trying out Jenkins and Octopus Deploy instead. Just so that I get a broad familiarity with the tools and will be able to see what benefits they each have.
 
