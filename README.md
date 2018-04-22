@@ -82,5 +82,20 @@ Today I found yUML. Interesting UML tool.
 
 ## Log 2018-04-17
 
-Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCity, Jenkins, Octopus Deploy + Tentacles and Resin.io. Current goal is to figure out how to keep values secret, but still have the correct ones upon deployment. I have to look into ENV variables. Currently I am working on a Python3 project with a Discord bot. I use Travis CI for it and it is the plan to try out Resin.io. The project is of now in a private git repository and I want to figure out how to use maybe ENV variables to see how I can how it public, but sensitive data hidden. Then I want to make a similar bot, but this time in Rust and with trying out Jenkins and Octopus Deploy instead. Just so that I get a broad familiarity with the tools and will be able to see what benefits they each have.
+Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCity, Jenkins, Octopus Deploy + Tentacles and Resin.io. Current goal is to figure out how to keep values secret, but still have the correct ones upon deployment. I have to look into ENV variables. Currently I am working on a Python3 project with a Discord bot. I use Travis CI for it and it is the plan to try out Resin.io. The project is of now in a private git repository and I want to figure out how to use maybe ENV variables to see how I can make it public, but keep sensitive data hidden. Then I want to make a similar bot, but this time in Rust and with trying out Jenkins and Octopus Deploy instead. Just so that I get a broad familiarity with the tools and will be able to see what benefits they each have.
 
+## Log 2018-04-22
+
+This Friday I and the other students at my workplace was sent to a course about personal development. I found it quite interesting. There are a few things I want to go through so I can remember them for furture use and improvement. The course was divided into two parts.
+
+**Part 1**
+* Use Ethos to inspire trust in you audience. Establish why you they should listen to you. E.g. by your company or experience.
+* Control your emotions by controling your breath
+    * It is important to squeeze all the air you have in your lungs out, this well force you to take a deep breath which will have a calming effect. I have already used it a few times over the weekend and I feel like it really does work.
+    * You can more easily breath well if you have a good posture, which is both good body language, but will also effect your mood. Don't pull your soldiers back, that is too much. Just imagine a straight line towards the ceiling.
+* Speak loud and deep. This will make it more pleasant to listen to you and thus inspire trust
+    * E.g. do an exercise where you say "HAAAMMMMAAAAA" and make sure to expand your throat/mouth area as much as possible
+    * Imagine that you speak towards the far end of the room. Don't speak to your toes!
+    
+**Part 2**
+*
