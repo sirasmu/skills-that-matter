@@ -86,6 +86,8 @@ Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCit
 
 ## Log 2018-04-22
 
+### *Get your message across! Strengthen you personal power* with Natasha Swerdloff and Dorte Koch
+
 This Friday I and the other students at my workplace was sent to a course about personal development. I found it quite interesting. There are a few things I want to go through so I can remember them for furture use and improvement. The course was divided into two parts.
 
 **Part 1**
@@ -96,6 +98,16 @@ This Friday I and the other students at my workplace was sent to a course about 
 * Speak loud and deep. This will make it more pleasant to listen to you and thus inspire trust
     * E.g. do an exercise where you say "HAAAMMMMAAAAA" and make sure to expand your throat/mouth area as much as possible
     * Imagine that you speak towards the far end of the room. Don't speak to your toes!
-    
+* People usually only keep the Speaker, Topic and Verbalisation/Visualisation in mind. You should also remember the Audience and the Context!
+
 **Part 2**
-*
+
+* Do not dwell on why you do not feel well
+* Do not blame others for how you feel / People do not effect your emotions - Your thoughts do
+
+_Learning styles_
+* Logical
+* Visual
+* Auditory
+* Kinesthetic
+
