@@ -107,7 +107,9 @@ This Friday I and the other students at my workplace was sent to a course about 
 
 Learning styles
 * Logical (40 points)
+    * What is wrong? Quality. Optimizing. Why waste time. Get to the point. Organizes meaning internally and sees how it is applicable in other situations. Sequential thinking. Learn systematically to keep track of information. Short precise sentences. Needs clear introductions. Asks questions till subject is understood. Use metaphors and listicles. Does not like long stories and prefers precise summaries. Speaks in short/curt sentences. Use the fish structure when presenting (head, body, tail).
 * Visual (30 points)
 * Auditory (26 points)
 * Kinesthetic (24 points)
+    * RTFM! Yeah nope not gonna do that. Does it feel right? Do I trust this person? Likes side stories. Wants to practise and do exercises. Offended by people who are being short and concise.
 
