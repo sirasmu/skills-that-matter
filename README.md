@@ -105,9 +105,9 @@ This Friday I and the other students at my workplace was sent to a course about 
 * Do not dwell on why you do not feel well
 * Do not blame others for how you feel / People do not effect your emotions - Your thoughts do
 
-_Learning styles_
-* Logical
-* Visual
-* Auditory
-* Kinesthetic
+Learning styles
+* Logical (40 points)
+* Visual (30 points)
+* Auditory (26 points)
+* Kinesthetic (24 points)
 
