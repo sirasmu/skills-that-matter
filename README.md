@@ -91,7 +91,7 @@ Current goal is to learn CI/CD. For this I will be looking at Travis CI, TeamCit
 This Friday I and the other students at my workplace was sent to a course about personal development. I found it quite interesting. There are a few things I want to go through so I can remember them for furture use and improvement. The course was divided into two parts.
 
 **Part 1**
-* Use Ethos to inspire trust in you audience. Establish why you they should listen to you. E.g. by your company or experience.
+* Use Ethos to inspire trust in your audience. Establish why you they should listen to you. E.g. by your company or experience.
 * Control your emotions by controling your breath
     * It is important to squeeze all the air you have in your lungs out, this well force you to take a deep breath which will have a calming effect. I have already used it a few times over the weekend and I feel like it really does work.
     * You can more easily breath well if you have a good posture, which is both good body language, but will also effect your mood. Don't pull your soldiers back, that is too much. Just imagine a straight line towards the ceiling.
@@ -113,3 +113,4 @@ Learning styles
 * Kinesthetic (24 points)
     * RTFM! Yeah nope not gonna do that. Does it feel right? Do I trust this person? Likes side stories. Wants to practise and do exercises. Offended by people who are being short and concise.
 
+This seems explain really well why I prefer some teaching styles. T hat people learn differently should always be kept in mind when teaching someone else.
