@@ -107,9 +107,13 @@ This Friday I and the other students at my workplace was sent to a course about 
 * The Cognitive Diamond gives a model for how what you do and what state you are in has an effect. Maybe you don't know how to think positive thought, but you can indirectly effect your thoughts with your behaviour and vice versa.
 
         Thoughts
+        
         /       \
+        
  Behaviour      Feelings
+ 
         \       /
+        
            Body
            
 *Learning styles (lowest score 24, highest score 48)*
