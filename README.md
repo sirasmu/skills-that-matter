@@ -104,13 +104,23 @@ This Friday I and the other students at my workplace was sent to a course about 
 
 * Do not dwell on why you do not feel well
 * Do not blame others for how you feel / People do not effect your emotions - Your thoughts do
+* The Cognitive Diamond gives a model for how what you do and what state you are in has an effect. Maybe you don't know how to think positive thought, but you can indirectly effect your thoughts with your behaviour and vice versa.
 
-Learning styles
+        Thoughts
+        /       \
+ Behaviour      Feelings
+        \       /
+           Body
+           
+*Learning styles (lowest score 24, highest score 48)*
+
 * Logical (40 points)
     * What is wrong? Quality. Optimizing. Why waste time. Get to the point. Organizes meaning internally and sees how it is applicable in other situations. Sequential thinking. Learn systematically to keep track of information. Short precise sentences. Needs clear introductions. Asks questions till subject is understood. Use metaphors and listicles. Does not like long stories and prefers precise summaries. Speaks in short/curt sentences. Use the fish structure when presenting (head, body, tail).
 * Visual (30 points)
+    * I got it. Impatient. Color attentive. Aesthetics. Breathes shallowly and fast. Talks fast in short sentences with a high tone. Quickly gets an overview. Use diagrams.
 * Auditory (26 points)
+    * Ask them questions. They will also ask you questions. They like stories. Good at remembering what they were told word by word, but might not necessarily understand it. Thinks by talking internally/externally. Disturbed by noise. Abdominal breathing. Talks in long sentences and monotone. Learns well with verbal instructions. Use word play.
 * Kinesthetic (24 points)
-    * RTFM! Yeah nope not gonna do that. Does it feel right? Do I trust this person? Likes side stories. Wants to practise and do exercises. Offended by people who are being short and concise.
+    * RTFM! Yeah nope not gonna do that. Does it feel right? Do I trust this person? Likes side stories. Wants to practise and do exercises. Offended by people who are being short and concise. Inspire trust e.g. by giving food or be entertaining. Responds well to touch. Breathes deeply. Speaks slowly in a deep tone of voice. Learns by doing and touching.
 
-This seems explain really well why I prefer some teaching styles. T hat people learn differently should always be kept in mind when teaching someone else.
+This seems explain really well why I prefer some teaching styles. T hat people learn differently should always be kept in mind when teaching someone else. This model also makes a lot of sense to me. I have always seen myself as a visual person, but I am actually not that visual. I make some sort of connections in my head that I am not quite sure how to descripe. I use visual aids a lot to make connections and understand how something works, but it is somehow more about how it relates to something else. 
