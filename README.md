@@ -130,9 +130,9 @@ This Friday I and the other students at my workplace was sent to a course about 
 
 This seems explain really well why I prefer some teaching styles. That people learn differently should always be kept in mind when teaching someone else. This model makes a lot of sense to me. I have always seen myself as a visual person, but I am actually not that visual. I make some sort of connections in my head that I am not quite sure how to descripe. I use visual aids a lot to make connections and understand how something works, but it is somehow more about how it relates to something else and it is kinda like doing turning stepwise motions in my head if that makes any sense.
 
-# Log 2018-4-29
+## Log 2018-4-29
 
-## Self-acceptence and to not bend yourself over
+### Self-acceptence and to not bend yourself over
 
 I have often been told to believe more in myself and be more assertive. And I think this is something I should take to heart. First time I was told so is probably more than four years ago. I think first step towards feeling more sure of myself is self-acceptence and not to worry too much about what other people think. To communicate my ideas and thoughts clearly I need to be comfortable expressing myself without constantly having second thoughts. When I have been in a discussion, I think I would often forfeit my opinion. Then when I go home and look up the topic. I think it has often happened that afterwards I felt more certain of what I had to say, but first AFTER the discussion. Which is sort of pointless. So I think I should become better at letting myself be in disagreement and not let my opinions/thoughts/knowledge be bulldozered. Especially when it revolves around something that is very subjective. When it comes to sharing knowledge I guess I should just more have and approach of: 
 
