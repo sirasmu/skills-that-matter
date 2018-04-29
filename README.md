@@ -117,7 +117,7 @@ This Friday I and the other students at my workplace was sent to a course about 
         
                 Body
            
-*Learning styles (lowest score 24, highest score 48)*
+*Learning styles (highest score 48)*
 
 * Logical (40 points)
     * What is wrong? Quality. Optimizing. Why waste time. Get to the point. Organizes meaning internally and sees how it is applicable in other situations. Sequential thinking. Learn systematically to keep track of information. Short precise sentences. Needs clear introductions. Asks questions till subject is understood. Use metaphors and listicles. Does not like long stories and prefers precise summaries. Speaks in short/curt sentences. Use the fish structure when presenting (head, body, tail).
